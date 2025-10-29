@@ -13,5 +13,6 @@ Começando projeto.. Colocando buzzer interativo com o teclado; -Breno 01/10/202
 Fazendo o banco de dados no mySQL, modelo conceitual e Minimundo -Breno 13/10/2025
 
 github do figma Karen: "Professor favor verificar"
+https://github.com/nogueiiiiiiiiira/figma 
 
 
